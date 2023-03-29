@@ -1,3 +1,7 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 #main {
 
     margin: auto;
@@ -24,4 +28,20 @@ input {
     border-color: #CCC;
     padding-left: 15px;
     width: 500px;
+}
+
+.total-results {
+    margin-left: 160px;
+    font-size: 13px;  
+}
+
+.result {
+    max-width: 600px;
+    margin-left: 160px;
+}
+
+.result h3 {
+    color: #4285f4;
+    margin-bottom: 4px;
+    
 }
